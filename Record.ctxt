@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=id\ name
+comment0.target=Record(int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=boolean\ matches(int)
+comment4.params=
+comment4.target=void\ show()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

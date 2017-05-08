@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=id\ name\ password\ balance
+comment0.target=Member(int,\ java.lang.String,\ java.lang.String,\ double)
+comment1.params=media
+comment1.target=char\ checkMedia(MediaFile)
+comment2.params=m
+comment2.target=char\ buyMedia(MediaFile)
+comment3.params=
+comment3.target=MediaFiles\ getLibrary()
+comment4.params=password
+comment4.target=boolean\ isPassword(java.lang.String)
+comment5.params=id
+comment5.target=boolean\ has(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
